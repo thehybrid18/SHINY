@@ -14,8 +14,8 @@ Endless options with this ingenious product.
 
 2. Responsive Design: Built on top of Bootstrap, Shiny apps are naturally responsive and mobile-friendly, ensuring a smooth experience across devices.
 
-[picture on device]: <>
-![](https://user-images.githubusercontent.com/52879813/146873103-6d480e6c-f062-4c8a-8bac-4e63fddb4cc5.PNG)
+<img width="3761" height="1920" alt="image" src="https://github.com/user-attachments/assets/ea41d088-56c7-4b35-8454-1e821ec4bfea" />
+
 
 3. Rapid Development: Developers can build sophisticated, interactive web applications without writing extensive front-end code. Shiny provides built-in support for most HTML widgets and components.
 
